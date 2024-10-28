@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="107d8421-b479-4207-b8b5-9fba7447af3e" name="Changes" comment="PROLAN3T">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="107d8421-b479-4207-b8b5-9fba7447af3e" name="Changes" comment="Readme">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730118609044</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Readme">
+      <option name="closed" value="true" />
+      <created>1730118954423</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730118954423</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -128,6 +136,7 @@
     <MESSAGE value="aawokwaok" />
     <MESSAGE value="PROLAN3T" />
     <MESSAGE value="PROLAN3M" />
-    <option name="LAST_COMMIT_MESSAGE" value="PROLAN3M" />
+    <MESSAGE value="Readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Readme" />
   </component>
 </project>
