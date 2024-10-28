@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="107d8421-b479-4207-b8b5-9fba7447af3e" name="Changes" comment="aawokwaok">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Rata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rata.java" afterDir="false" />
-    </list>
+    <list default="true" id="107d8421-b479-4207-b8b5-9fba7447af3e" name="Changes" comment="PROLAN3T" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,12 +89,21 @@
       <option name="project" value="LOCAL" />
       <updated>1730094954185</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="PROLAN3T">
+      <option name="closed" value="true" />
+      <created>1730118541990</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730118541990</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="bjbj" />
     <MESSAGE value="aawokwaok" />
-    <option name="LAST_COMMIT_MESSAGE" value="aawokwaok" />
+    <MESSAGE value="PROLAN3T" />
+    <option name="LAST_COMMIT_MESSAGE" value="PROLAN3T" />
   </component>
 </project>
