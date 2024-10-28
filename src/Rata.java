@@ -2,11 +2,11 @@
  * Kelas Rata digunakan untuk menghitung nilai rata-rata dari beberapa mata pelajaran.
  * <p>
  * Program ini menginisialisasi nilai untuk beberapa mata pelajaran dan menghitung
- * rata-rata menggunakan metode khusus. Ini adalah contoh sederhana tentang cara
+ * rata-rata menggunakan method khusus. Ini adalah contoh sederhana tentang cara
  * menghitung dan menampilkan rata-rata dari beberapa nilai.
  * </p>
  *
- * @author [Nama Anda]
+ * @author [Kita]
  * @version 1.0
  */
 public class Rata {
@@ -15,11 +15,11 @@ public class Rata {
      * Metode utama tempat eksekusi program dimulai.
      * <p>
      * Metode ini menginisialisasi nilai untuk beberapa mata pelajaran, menghitung
-     * nilai rata-rata menggunakan metode {@link #calculateAverage(double...)} dan
+     * nilai rata-rata menggunakan metode calculateAverage
      * menampilkan hasilnya.
      * </p>
      *
-     * @param args argumen baris perintah (tidak digunakan dalam program ini)
+     * @param args menjelaskan parameter yang ada di dalam kode
      */
     public static void main(String[] args) {
         // Inisialisasi nilai untuk setiap mata pelajaran
@@ -39,12 +39,12 @@ public class Rata {
     /**
      * Menghitung rata-rata dari nilai yang diberikan.
      * <p>
-     * Metode ini menerima sejumlah nilai double yang bervariasi dan menghitung
+     * Method ini menerima sejumlah nilai double yang bervariasi dan menghitung
      * rata-rata dengan membagi jumlah semua nilai dengan jumlah nilai yang diberikan.
      * </p>
      *
      * @param scores sejumlah nilai double yang mewakili skor
-     * @return rata-rata dari skor yang diberikan
+     * @return memberikan output yang sudah dikeluarkan dari program
      */
     public static double calculateAverage(double... scores) {
         double total = 0;
